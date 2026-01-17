@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FernandoGarcia777//Clasificador_Image/blob/main/Demo.ipynb)
-# 🖊️ MNIST Handwritten Digit Classifier
+# 🖊️ MNIST Clasificador de Digitos
 
 ## 📋 Descripción
 Este proyecto implementa un sistema de Visión por Computadora para reconocer dígitos escritos a mano (0-9) utilizando el famoso dataset **MNIST**. Fue desarrollado siguiendo el Capítulo 3 de *"Hands-On Machine Learning"* de Aurélien Géron.
